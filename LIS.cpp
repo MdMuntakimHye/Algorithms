@@ -31,3 +31,21 @@ int main()
 ", lis( arr, n ) );  
     return 0;  
 }
+
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+          // https://tutorialspoint.dev/algorithm/dynamic-programming-algorithms/longest-increasing-subsequence
