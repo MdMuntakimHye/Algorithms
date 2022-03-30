@@ -42,3 +42,21 @@ int main() {
   }
   return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//https://www.codesdope.com/course/algorithms-activity-selection/
