@@ -1,3 +1,4 @@
+//recognizeStringsUnder‘a*’‘a*b+’‘abb’
 hel#include<stdio.h>
 #include<conio.h>
 #include<string.h>
