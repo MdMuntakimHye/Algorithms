@@ -28,4 +28,6 @@ void main() {
    if(i==l)
       printf("String Accepted");
    getch();
+          
+          //constructDFAforRegularExpression(a+aa*b)*.c
 }
